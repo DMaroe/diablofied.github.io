@@ -2,5 +2,9 @@
 .responsive {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
   }
   
